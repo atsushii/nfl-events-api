@@ -1,6 +1,7 @@
 import unittest
 from project.utils.validate_request import ValidateRequest
 
+
 class TestRequestValidator(unittest.TestCase):
 
     def setUp(self):

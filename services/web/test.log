@@ -127,3 +127,11 @@
 [2021-02-02 09:02:14,009] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
 [2021-02-02 09:02:14,012] INFO in validate_request: start date date is bigger than end date
 [2021-02-02 09:02:14,014] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 18:08:26,092] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 18:08:28,865] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 18:08:28,868] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 18:08:28,870] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 18:09:20,040] INFO in execute_nfl_api: {'results': {'error': "InvalidDataException('Date range must a maximum of 7 days for sports other than MMA, Boxing and AutoRacing and a maximum of 1 month for MMA, Boxing and AutoRacing.',)"}}
+[2021-02-02 18:10:06,024] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 18:10:25,836] INFO in execute_nfl_api: {'results': {'error': "InvalidDataException('Could not find category_id for league: NF',)"}}
+[2021-02-02 18:10:46,504] INFO in execute_nfl_api: {'results': {'error': "InvalidDataException('Date range must a maximum of 7 days for sports other than MMA, Boxing and AutoRacing and a maximum of 1 month for MMA, Boxing and AutoRacing.',)"}}

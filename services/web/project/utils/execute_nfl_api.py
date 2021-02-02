@@ -12,7 +12,6 @@ class ExecuteNflApi:
         self.args = args
 
     def pull_nfl_event_data_from_api(self, url):
-
         res = requests.get(url)
 
         return res.status_code == 200, res.json()
@@ -57,7 +56,6 @@ class ExecuteNflApi:
         return combined_event_data
 
     def combined_data(self, scoreboard, rankings, result=None):
-
         if result is None:
             result = []
 

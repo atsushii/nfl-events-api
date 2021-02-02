@@ -1,6 +1,7 @@
 import datetime
 from project import app
 
+
 class ValidateRequest:
 
     def __init__(self):
@@ -8,7 +9,6 @@ class ValidateRequest:
         self.format = "%Y-%m-%d"
 
     def validator(self, form_data):
-
         self.is_exist_form_data_key(form_data)
         if not self.success:
             return self.success
@@ -27,7 +27,6 @@ class ValidateRequest:
             self.success = False
 
     def is_validate_date_format(self, start_date, end_date):
-
         try:
             datetime.datetime.strptime(start_date, self.format)
             datetime.datetime.strptime(end_date, self.format)
