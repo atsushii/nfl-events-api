@@ -6,7 +6,7 @@ app.config.from_pyfile("config.py")
 
 
 @app.route("/")
-def ping():
+def fetch_nfl_events_data():
     form_data = dict(request.form)
     if len(form_data) == 3:
 
@@ -15,6 +15,9 @@ def ping():
 
         return jsonify(result)
 
-    return "error"
+    return jsonify(
+        message="received invalid data",
+        category="error",
+        status=400)
 
 
