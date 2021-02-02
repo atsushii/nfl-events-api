@@ -1,0 +1,129 @@
+[2021-02-02 07:16:57,875] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 07:17:18,555] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 07:42:18,522] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 07:42:18,525] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 07:43:32,986] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 07:43:32,988] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 07:43:32,989] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:02:44,962] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:02:44,966] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:02:44,968] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:05:04,198] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:05:04,200] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:05:04,201] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:06:37,010] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:06:37,011] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:06:37,013] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:07:49,793] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:07:49,795] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:07:49,797] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:08:27,946] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:08:27,948] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:08:27,951] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:31:16,225] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:31:17,053] INFO in execute_nfl_api: rankings data doesn't contain expected key
+[2021-02-02 08:31:17,055] INFO in execute_nfl_api: rankings data doesn't contain expected key
+[2021-02-02 08:31:17,057] INFO in execute_nfl_api: rankings data doesn't contain expected key
+[2021-02-02 08:31:17,059] INFO in execute_nfl_api: rankings data doesn't contain expected key
+[2021-02-02 08:31:18,298] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:31:18,303] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:31:18,306] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:31:38,968] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:31:39,769] INFO in execute_nfl_api: rankings data doesn't contain expected key
+[2021-02-02 08:31:39,771] INFO in execute_nfl_api: rankings data doesn't contain expected key
+[2021-02-02 08:31:39,773] INFO in execute_nfl_api: rankings data doesn't contain expected key
+[2021-02-02 08:31:39,775] INFO in execute_nfl_api: rankings data doesn't contain expected key
+[2021-02-02 08:31:40,945] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:31:40,949] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:31:40,955] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:32:53,642] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:32:54,463] INFO in execute_nfl_api: rankings data doesn't contain expected key
+[2021-02-02 08:32:54,465] INFO in execute_nfl_api: rankings data doesn't contain expected key
+[2021-02-02 08:32:54,466] INFO in execute_nfl_api: rankings data doesn't contain expected key
+[2021-02-02 08:32:54,467] INFO in execute_nfl_api: rankings data doesn't contain expected key
+[2021-02-02 08:32:55,651] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:32:55,655] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:32:55,661] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:34:36,356] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:34:37,156] INFO in execute_nfl_api: rankings data doesn't contain expected key
+[2021-02-02 08:34:37,158] INFO in execute_nfl_api: rankings data doesn't contain expected key
+[2021-02-02 08:34:37,161] INFO in execute_nfl_api: rankings data doesn't contain expected key
+[2021-02-02 08:34:37,163] INFO in execute_nfl_api: rankings data doesn't contain expected key
+[2021-02-02 08:34:38,354] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:34:38,362] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:34:38,368] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:35:49,518] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:35:50,330] INFO in execute_nfl_api: rankings data doesn't contain expected key
+[2021-02-02 08:35:50,332] INFO in execute_nfl_api: rankings data doesn't contain expected key
+[2021-02-02 08:35:50,334] INFO in execute_nfl_api: rankings data doesn't contain expected key
+[2021-02-02 08:35:50,335] INFO in execute_nfl_api: rankings data doesn't contain expected key
+[2021-02-02 08:35:51,499] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:35:51,504] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:35:51,507] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:36:33,125] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:36:35,114] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:36:35,119] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:36:35,120] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:37:00,347] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:37:02,277] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:37:02,286] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:37:02,291] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:38:21,032] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:38:23,052] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:38:23,060] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:38:23,064] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:38:56,062] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:38:58,100] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:38:58,104] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:38:58,108] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:41:54,242] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:41:54,244] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:41:56,215] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:41:56,219] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:41:56,222] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:42:39,747] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:42:39,749] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:42:41,767] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:42:41,772] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:42:41,774] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:44:25,780] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:44:25,787] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:44:27,832] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:44:27,836] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:44:27,838] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:47:09,129] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:47:09,134] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:47:11,008] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:47:11,010] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:47:11,012] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:48:28,886] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:48:28,891] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:48:30,960] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:48:30,962] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:48:30,964] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:53:25,404] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:53:25,406] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:53:27,598] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:53:27,607] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:53:27,611] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:56:10,479] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:56:13,334] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:56:13,342] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:56:13,346] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:56:22,946] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:56:25,675] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:56:25,680] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:56:25,683] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:56:31,150] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:56:31,153] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:56:33,103] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:56:33,106] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:56:33,108] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 08:56:47,737] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:56:50,470] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 08:56:50,475] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 08:56:50,477] INFO in validate_request: The request didn't contain valid key
+[2021-02-02 09:02:11,235] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 09:02:14,009] INFO in validate_request: Incorrect date string format. It should be YYYY-MM-DD
+[2021-02-02 09:02:14,012] INFO in validate_request: start date date is bigger than end date
+[2021-02-02 09:02:14,014] INFO in validate_request: The request didn't contain valid key
